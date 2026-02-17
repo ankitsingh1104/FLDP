@@ -6,6 +6,7 @@ This project implements:
 - Federated Learning (FedAvg)
 - Differential Privacy using Opacus
 - Kaggle medical dataset
+- https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data
 
 ## How to Run
 python main.py
