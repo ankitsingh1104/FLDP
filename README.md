@@ -1,5 +1,5 @@
 # FLDP
-# Federated Learning with Differential Privacy (CNN)
+# Federated Learning with Differential Privacy in healthcare sector 
 
 This project implements:
 - CNN model
